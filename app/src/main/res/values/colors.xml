@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/white</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">@color/selected</color>
+    <color name="textColorPrimary">@color/blackMain</color>
+    <color name="colorControlHighlight">#77696969</color>
+
+    <color name="background">#e7ecf2</color>
+    <color name="icon">#77808f</color>
+    <color name="button">#4285f4</color>
+    <color name="buttonDisabled">#d7e1e9</color>
+    <color name="buttonBuy">#d55f4f</color>
+    <color name="tag">#e6ecf1</color>
+    <color name="tagBorder">#c4c7ce</color>
+    <color name="normal">#76808c</color>
+    <color name="selected">#497fec</color>
+    <color name="border">#c4c8ce</color>
+    <color name="markBlue">#427ada</color>
+    <color name="markBlue2">#4a689e</color>
+    <color name="markRed">#ea4630</color>
+    <color name="markYellow">#dbb442</color>
+    <color name="markOrange">#f39e15</color>
+    <color name="textRed">#e82929</color>
+    <color name="qr_border">#77808f</color>
+    <color name="searchBG">#e6ecf1</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_05">#7d000000</color>
+    <color name="black">#000000</color>
+    <color name="black_70">#b2000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="deep_pink">#FF1493</color>
+    <color name="orange">#FFA500</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="gray">#464646</color>
+
+    <color name="bgMain">#eaeaea</color>
+    <color name="bgMain2">#e6ecf1</color>
+    <color name="bgAvatarMovie">#c4c8ce</color>
+    <color name="blackMain">#1c1e21</color>
+    <color name="textBlack">@color/blackMain</color>
+    <color name="textGray">#77808f</color>
+    <color name="textGray2">#4c525b</color>
+    <color name="bgSplashActivity">@color/selected</color>
+    <color name="shadow_05">#7b1f2123</color>
+
+    <color name="primary_light_alpha50">#f200ff</color>
+
+    <color name="mnFooterBG">#fcfcfc</color>
+</resources>

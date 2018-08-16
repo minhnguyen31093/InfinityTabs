@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_tiny">2dp</dimen>
+    <dimen name="space_mini">4dp</dimen>
+    <dimen name="space_mini_extra">6dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_small_2">10dp</dimen>
+    <dimen name="space_small_extra">12dp</dimen>
+    <dimen name="space_normal">16dp</dimen>
+    <dimen name="space_normal_2">18dp</dimen>
+    <dimen name="space_normal_extra">20dp</dimen>
+    <dimen name="space_medium">24dp</dimen>
+    <dimen name="space_medium_2">26dp</dimen>
+    <dimen name="space_medium_extra">28dp</dimen>
+    <dimen name="space_large">32dp</dimen>
+    <dimen name="space_large_extra">36dp</dimen>
+    <dimen name="space_mega_large">68dp</dimen>
+
+    <dimen name="icon_size_mini">12dp</dimen>
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_normal">24dp</dimen>
+    <dimen name="icon_size_medium">36dp</dimen>
+    <dimen name="icon_size_medium_extra">40dp</dimen>
+
+    <dimen name="mn_item_note_height">32dp</dimen>
+    <dimen name="mn_item_height">40dp</dimen>
+    <dimen name="mn_item_big_height">55dp</dimen>
+    <dimen name="mn_item_big_height_b">97dp</dimen>
+    <dimen name="actionbar_size">56dp</dimen>
+    <dimen name="divider_size">1dp</dimen>
+
+    <dimen name="image_size_ms01_width">70dp</dimen>
+    <dimen name="image_size_ms01_height">98dp</dimen>
+    <dimen name="image_size_qr">176dp</dimen>
+    <dimen name="image_size_small_width">80dp</dimen>
+    <dimen name="image_size_small_height">114dp</dimen>
+    <dimen name="image_size_normal_width">100dp</dimen>
+    <dimen name="image_size_normal_height">142dp</dimen>
+    <dimen name="image_size_detail_height">224dp</dimen>
+
+    <dimen name="image_land_size_normal_width">144dp</dimen>
+    <dimen name="image_land_size_normal_height">90dp</dimen>
+
+    <dimen name="text_size_tiny">9sp</dimen>
+    <dimen name="text_size_mini">10sp</dimen>
+    <dimen name="text_size_small">11sp</dimen>
+    <dimen name="text_size_normal">12sp</dimen>
+    <dimen name="text_size_normal_extra">13sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+
+    <dimen name="button_play_size">40dp</dimen>
+    <dimen name="button_share_size">28dp</dimen>
+
+    <dimen name="tab_height">48dp</dimen>
+    <dimen name="tab_width">300dp</dimen>
+
+    <dimen name="elevation_standard">2dp</dimen>
+</resources>

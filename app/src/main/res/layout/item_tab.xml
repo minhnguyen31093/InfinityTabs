@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tvMain"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/selector_tab"
+    android:gravity="center"
+    android:paddingEnd="@dimen/space_small_extra"
+    android:paddingStart="@dimen/space_small_extra"
+    android:textColor="@color/selector_tab_home"
+    android:textSize="@dimen/text_size_normal"
+    tools:layout_height="36dp"
+    tools:text="Tab" />
